@@ -14,7 +14,8 @@
 
 [ Driven 자율주행 팀 회고 ](https://h17.notion.site/Driven-2b50e449be874ac5b2acb7312a8bfb48?pvs=4)
 
-[박태정의 대회 후기 글 ](proggg.tistoy.com)
+[조용재 구현 부분 1](https://github.com/yyongjae/Driven_autonomous_driving/blob/main/ros_package/driven_ros/src/driven/src/perception/src/slam/LeGO_LOAM/scripts/mapConvert.py)
+[조용재 구현 부분 2](https://github.com/yyongjae/Driven_autonomous_driving/tree/main/ros_package/driven_ros/src/driven/src/perception/src/detection/yolov5)
 
 <img width="100%" src="img/driven_main_3.JPG"/>
 
